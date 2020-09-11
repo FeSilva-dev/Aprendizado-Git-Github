@@ -1,0 +1,1 @@
+Aprendemos a instalar o Git diretamente no windows, para que fique mais facil para fazer as alteraçoes no projeto.
