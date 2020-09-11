@@ -1,0 +1,18 @@
+Aprendemos alguns comandos basicos do Git para que nossos projetos fiquem cada vez mais atualizados, e para que possamos evitar perdas de cógigos, ou voltar
+a alguma versão anterior caso de algum problema.
+
+git diff - mostra as diferenças dos arquivos, do que já foi comitado, para o que acaba de sofrer alterações
+
+git reset HEAD (nome do arquivo) - para poder tirar o arquivo de ser comitado.
+
+git checkout -- (nome do arquivo) - Remove todas as alterações, e volta o arquivo para a versão comitada
+
+git branch - mostra as branchs existentes no projeto
+
+git branch (nome) - cria uma nova branding no "Master"
+
+git checkout (nome da branch) - Muda de branch, para a desejada
+
+git branch -D (nome) - Deleta a branch passada
+
+git checkout -b (nome) - Cria uma nova branch e automaticamente muda para ela
