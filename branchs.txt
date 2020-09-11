@@ -1,0 +1,4 @@
+Nessa parte do curso, começamos a ver a questão das branchs, que são usadas para quando o usuario está trabalhando remotamente
+ou quando não quer perder a base de um codigo para fazer a alteração, ele pode criar uma nova branch para desenvolver uma parte do projeto
+como por exemplo uma Nav Bar, ou algum estilo para o site, depois ele pode juntar essa branch, a branch master, e o codigo que ele fez 
+vai aparecer na branch original.
