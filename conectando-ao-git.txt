@@ -1,0 +1,2 @@
+Nessas aulas, vimos como criar um repositório no proprio Github, e conectar o nosso terminal e projeto com o repositório, assim podemos fazer as alterações
+e os arquivos vão direto para o Git, assim facilitando muito para quem está trabalhando em conjunto, ou sozinho.
