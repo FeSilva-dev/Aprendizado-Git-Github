@@ -1,0 +1,2 @@
+Nesses arquivos, eu irei contar um pouco sobre o que eu aprendi no modulo de Git e Github, e alguns comandos que são bem uteis no dia-a-dia de um programador.
+Lembrando que estou iniciando nessa carreira agora, peço desculpas qualquer coisa.
